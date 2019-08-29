@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nested Recycler View</string>
+    <string name="tv_movie_list">Movie List</string>
+    <string name="tv_movie_name">3 idiots</string>
+</resources>
